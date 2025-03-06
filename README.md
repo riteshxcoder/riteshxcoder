@@ -1,40 +1,100 @@
-# 🚀 Your Name
+<!-- Heading -->
+<h1 align="center">Hey 👋, I'm Your Name</h1>
+<h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from [Your Country]!</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/X-Network12)  
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)](https://github.com/X-Network12)  
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-## 🌟 About Me  
-- 🔭 I’m currently working on **[Your Project Name](your project link)**  
+---
+
+## 🌟 **About Me**  
+- 🔭 I’m currently working on **[Your Project](your project link)**  
 - 🌱 I’m currently learning **Python, JavaScript, AI & ML**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
-- 🤔 I’m looking for help with **Backend Development**  
-- 💬 Ask me about **Python, MongoDB, Bots, APIs**  
+- 💬 Ask me about **Python, MongoDB, APIs, Bots**  
 - 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
-- ⚡ Fun fact: **I love coding at night!**  
+- ⚡ Fun fact: **I love coding at night!** 🌙  
 
 ---
 
-## 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mongodb,react,html,css,git,github,heroku,linux" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔗 Connect with Me  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Shivang_mishra_op)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)  
+## 🔗 **Connect with Me**  
+<p align="center">
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 ---
 
-**✨ Keep Coding, Keep Growing! 🚀**
+## 🎵 **Now Playing on Spotify**  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default" alt="Spotify Now Playing" />
+</p>
+
+---
+
+## 🎯 **My GitHub Contributions**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 **GitHub Achievements**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&margin-w=10" />
+</p>
+
+---
+
+## 📝 **Recent Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [Latest Blog Post Title](https://yourblog.com/post-link)
+- 🧠 [Another Blog Post](https://yourblog.com/another-post)
+- 🚀 [More Posts...](https://yourblog.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💖 **Support Me**  
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F5EBC9?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/yourusername">
+    <img src="https://img.shields.io/badge/Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 **Fun Animation**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=435&lines=Welcome+to+My+Profile!;I+Love+Coding+%26+Open+Source!;Let's+Connect+%26+Build+Something+Awesome!" />
+</p>
+
+---
+
+### **✨ Keep Coding, Keep Growing! 🚀**
