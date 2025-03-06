@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center">Hey 👋, I'm Your Name</h1>
+<h1 align="center">Hey 👋, I'm SHIVANG </h1>
 <h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from [Your Country]!</h3>
 
 <!-- Profile Views & Followers -->
