@@ -4,8 +4,8 @@
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=X-Network12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/X-Network12?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -29,11 +29,11 @@
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=X-Network12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X-Network12&theme=tokyonight" alt="GitHub Streak Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Network12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -57,14 +57,14 @@
 
 ## 🎯 **My GitHub Contributions**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=X-Network12&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 🏆 **GitHub Achievements**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=X-Network12&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
