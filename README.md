@@ -1,7 +1,7 @@
 # 🚀 Your Name
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)  
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)](https://github.com/yourusername)  
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/X-Network12)  
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)](https://github.com/X-Network12)  
 
 ## 🌟 About Me  
 - 🔭 I’m currently working on **[Your Project Name](your project link)**  
@@ -31,7 +31,7 @@
 ---
 
 ## 🔗 Connect with Me  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourtelegram)  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Shivang_mishra_op)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)  
 
