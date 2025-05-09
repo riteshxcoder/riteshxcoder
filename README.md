@@ -80,7 +80,7 @@
   <a href="https://www.buymeacoffee.com/yourusername">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F5EBC9?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://ko-fi.com/yourusername">
+  <a href="https://ko-fi.com/shivangmishra">
     <img src="https://img.shields.io/badge/Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </p>
@@ -89,7 +89,7 @@
 
 ## 🔥 **Fun Animation**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=435&lines=Welcome+to+My+Profile!;I+Love+Coding+%26+Open+Source!;Let+%26+𝙍 𝙊 𝘽 𝜩 𝙍 𝙏+-𝐒 𝐇 𝐈 𝐕 𝐀 𝐍 𝐆 🜲 !" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=435&lines=Welcome+to+My+Profile!;I+Love+Coding+%26+Open+Source!;Let+%26+𝙍 𝙊 𝘽 𝜩 𝙍 𝙏+-𝐒 𝐇 𝐈 𝐕 𝐀 𝐍 𝐆 🜲 !" />
 </p>
 
 ---
