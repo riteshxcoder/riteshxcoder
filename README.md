@@ -61,7 +61,7 @@
 
 ## 🏆 **GitHub Achievements**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=X-Network12&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riteshxcoder&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
