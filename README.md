@@ -7,8 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=riteshxcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/riteshxcoder?label=Followers&style=social" alt="GitHub Followers" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshxcoder&label=Profile%20views&color=0e75b6&style=flat
----
+<img  align="right" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 ## 🌟 **About Me**  
 - 🔭 I’m currently working on **[Your Project](your project link)**  
