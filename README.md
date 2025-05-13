@@ -88,10 +88,9 @@
 
 ## 🔥 **Fun Animation**
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=435&lines=Welcome+to+My+Profile!;I+Love+Coding+%26+Open+SourceLet+%26+𝙍𝙊𝘽𝜩𝙍𝙏+-𝐒𝐇𝐈𝐕𝐀𝐍𝐆" />
-</p>
+<img  align="left" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 ---
 
 ### **✨ Keep Coding, Keep Growing! 🚀**
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=435&lines=Welcome+to+M
+
