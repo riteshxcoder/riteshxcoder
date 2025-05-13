@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Python, JavaScript, AI & ML**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Python, MongoDB, APIs, Bots**  
-- 📫 How to reach me: **[your.email@example.com](email@example.com)**  
+- 📫 How to reach me: **[your.email@example.com](riteshcoder.com)**  
 - ⚡ Fun fact: **I love coding at night!** 🌙  
 
 ---
